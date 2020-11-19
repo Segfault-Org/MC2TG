@@ -1,0 +1,15 @@
+*.o
+*.so
+mc2tg-bot
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+test
+testlog
+out
+
+# Local History for Visual Studio Code
+.history/
